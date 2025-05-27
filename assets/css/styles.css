@@ -1,8 +1,51 @@
 /* Color Pallete */
+:root {
+    --champagne: #f1e0c5;
+    --khaki: #c9b79c;
+    --chinese-violet: #7b6d8d;
+    --bistre: #342a21;
+    --wisteria: #bea7e5;
+}
 
-/* 
---champagne: #f1e0c5ff;
---khaki: #c9b79cff;
---chinese-violet: #7b6d8dff;
---bistre: #342a21ff;
---wisteria: #bea7e5ff; */
+/* Global Styles */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: var(--bistre);
+}
+
+/* Navbar */
+.navbar {
+    background-color: var(--champagne) !important;
+}
+
+.nav-color {
+    color: var(--bistre)
+}
+
+.nav-bold {
+    font-weight: bold;
+}
+/* Hero Section */
+.hero-section {
+    position: relative;
+}
+.hero-section .text-shadow {
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+}
+
+
+
+/* Footer */
+
+footer {
+    background-color: var(--champagne) !important;
+}
+
+.footer-color {
+    color: var(--bistre)
+}
