@@ -9,6 +9,19 @@
 
 /* Global Styles */
 
+html,
+body {
+    height: 100%;
+}
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+main {
+    flex: 1 0 auto;
+}
+
 h1,
 h2,
 h3,
@@ -24,7 +37,7 @@ h6 {
 }
 
 .nav-color {
-    color: var(--bistre)
+    color: var(--bistre);
 }
 
 .nav-bold {
@@ -38,8 +51,6 @@ h6 {
     text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
 }
 
-
-
 /* Footer */
 
 footer {
@@ -47,5 +58,5 @@ footer {
 }
 
 .footer-color {
-    color: var(--bistre)
+    color: var(--bistre);
 }
