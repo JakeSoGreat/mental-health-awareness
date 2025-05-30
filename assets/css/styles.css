@@ -131,7 +131,7 @@ p {
 
 /* Remove border from Featured Topics cards */
 .featured-topic-card {
-    background-color: var(--champagne);
+    background-color: var(--floralwhite);
     border: none !important;
     box-shadow: 0 0.125rem 0.25rem rgba(0,0,0,0.05);
 }
@@ -145,6 +145,14 @@ p {
 .topic-title:hover {
     color: var(--bistre);
 }
+
+/* Upliftin Carousel */
+.carousel-height {
+    min-height: 300px;
+}
+
+
+
 /* Footer */
 
 footer {
