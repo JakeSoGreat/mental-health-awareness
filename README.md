@@ -88,8 +88,14 @@ To deploy this website using **GitHub Pages**, follow these steps:
 6. Wait a few moments for GitHub Pages to build and deploy your site.  
     - A link to your live website will appear at the top of the Pages settings once deployment is complete.
 
+---
 
 ---
+## Applications Purpose
+---
+## User Value
+---
+
 ## Code Validation
 
 After completing the minimum viable product, I used the [W3C Markup Validation Service](https://validator.w3.org/) to check the HTML code for errors. The initial validation revealed several issues, as shown below:
