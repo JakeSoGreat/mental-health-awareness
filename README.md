@@ -90,6 +90,17 @@ To deploy this website using **GitHub Pages**, follow these steps:
 
 
 ---
+## Code Validation
+
+After completing the minimum viable product, I used the [W3C Markup Validation Service](https://validator.w3.org/) to check the HTML code for errors. The initial validation revealed several issues, as shown below:
+
+![Validation errors screenshot](assets/images/error%20during%20validation.png)
+
+I promptly addressed these errors and revalidated the code. The updated validation confirmed that all issues had been resolved:
+
+![Passing validation screenshot](assets/images/passing%20validation.png)
+
+---
 
 ## Features
 
@@ -116,7 +127,7 @@ To deploy this website using **GitHub Pages**, follow these steps:
 
 ## Known Issues
 
-- None currently reported.
+- On mobile and tablet devices, after selecting an item from the dropdown menu, the menu does not automatically close. This causes it to remain open and cover the section title, resulting in a UI issue.
 
 ## Roadmap
 
