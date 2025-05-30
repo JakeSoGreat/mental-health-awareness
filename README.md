@@ -41,10 +41,22 @@ I used ChatGPT to check if the color palette I created for the design of the pag
 
 ## Image Creation and Integration
 
-To maintain a cohesive and calming visual theme throughout the website, I used Copilot’s AI-powered image generation tool to create a series of custom images. This approach ensured that all visuals aligned with the overall mood and purpose of the site—promoting mental health awareness in a supportive and soothing way.
+To maintain a cohesive and calming visual theme, I used GitHub Copilot’s AI-powered image generation to create a set of custom images for the website. This ensured that all visuals consistently reflect the site’s purpose—promoting mental health awareness in a supportive and soothing manner.
 
-By leveraging this tool, I tailored each image to match the site's chosen color palette, focusing on soft, calming tones. This created a streamlined visual experience where imagery, layout, and color scheme work together harmoniously. These custom images enhance the site's aesthetic appeal and reinforce the message of calm, clarity, and encouragement.
+Each image was designed to complement the chosen color palette, emphasizing soft, tranquil tones that align with the overall aesthetic. This approach helps unify the site’s imagery, layout, and colors, resulting in a harmonious and inviting user experience. The custom images not only enhance visual appeal but also reinforce the site’s message of calm, clarity, and encouragement.
 
+### Custom Images Created
+
+- ![Anxiety illustration](assets/images/anxiety.png)
+- ![PTSD illustration](assets/images/ptsd.png)
+- ![Depression illustration](assets/images/depression.png)
+- ![Imposter syndrome illustration](assets/images/impostersyndrom.png)
+- ![Site logo](assets/images/logomh.png)
+- ![Hero section image](assets/images/mentalhero.png)
+
+Additionally, each carousel background was custom-generated to match the site’s theme, such as:
+
+- ![Carousel background example](assets/images/carousel1.png)
 ---
 ### Wireframes
 
@@ -99,6 +111,19 @@ To deploy this website using **GitHub Pages**, follow these steps:
 - HTML5 & CSS3
 - Bootstrap 5
 - AI tools: ChatGPT (user stories, palette), Copilot (images)
+
+---
+
+## Known Issues
+
+- None currently reported.
+
+## Roadmap
+
+- Add more mental health topics
+- Expand resource links
+- Add language/localization support
+- Add a self check form page
 
 ---
 
