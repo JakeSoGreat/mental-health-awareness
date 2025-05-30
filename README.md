@@ -95,3 +95,7 @@ No build steps required—just open the file!
 - [Jacob Smith] (https://github.com/JakeSoGreat)
 - AI tools: ChatGPT, GitHub Copilot
 - Livewell Southwest: https://www.livewellsouthwest.co.uk/inpatient-mental-health-neurology/first-response-24-7-helpline
+- My Therapist: https://www.mytherapistonline.co.uk/
+- NHS 111: https://111.nhs.uk/guided-entry/mental-health-help
+- Devon Mind: https://www.devonmind.com/find-help/groups
+- Mental Health Foundation: https://www.mentalhealth.org.uk/explore-mental-health/articles

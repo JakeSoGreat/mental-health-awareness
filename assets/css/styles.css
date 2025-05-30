@@ -2,16 +2,16 @@
 :root {
     --champagne: #f1e0c5;
     --khaki: #c9b79c;
-    --chinese-violet: #7b6d8d;
+    --chinese-violet: #635973;
     --bistre: #342a21;
     --wisteria: #bea7e5;
+    --floralwhite: #fbf6ef;
 }
 
 /* Global Styles */
 
 body {
     background-color: var(--wisteria);
-
 }
 
 h1,
@@ -30,7 +30,7 @@ p {
 }
 
 .word-shadow {
-    text-shadow: 2px 2px 8px rgba(0,0,0,0.25);
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.25);
 }
 
 .header-font {
@@ -39,6 +39,10 @@ p {
 
 .para-font {
     font-family: "Cabin", sans-serif;
+}
+
+.underline {
+    text-decoration: underline;
 }
 
 /* Navbar */
@@ -62,9 +66,8 @@ p {
     text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
 }
 
-
 .mentalhero-img {
-    width: 506px ;
+    width: 506px;
     height: 326px;
 }
 
@@ -95,7 +98,25 @@ p {
 }
 
 .find-help-text-light {
-    color: var(--champagne);
+    color: var(--floralwhite);
+}
+
+.find-help-btn {
+    background-color: var(--chinese-violet);
+    color: var(--floralwhite);
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem;
+    border: none;
+    min-width: 120px;
+    text-align: left;
+}
+
+.find-help-btn:hover {
+    background-color: var(--wisteria);
+    color: var(--bistre);
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem;
+    border: none;
 }
 /* Footer */
 
@@ -106,4 +127,3 @@ footer {
 .footer-color {
     color: var(--bistre);
 }
-
