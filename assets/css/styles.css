@@ -70,8 +70,10 @@ p {
 }
 
 .mentalhero-img {
-    width: 506px;
-    height: 326px;
+    width: 100%;
+    max-width: 506px;
+    height: auto;
+    display: block;
 }
 
 /* Find Help Section */
