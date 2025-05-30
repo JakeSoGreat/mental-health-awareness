@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mental Health Awareness</title>
+    <title>Peace of Mind</title>
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon-32x32.png">
@@ -16,16 +16,22 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="assets/css/styles.css">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Sintony:wght@400;700&display=swap"
+        rel="stylesheet">
 </head>
 
-<body>
+<body id="home">
     <!-- Responsive Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-light sticky-top">
         <div class="container">
-            <a class="navbar-brand d-flex align-items-center" href="#">
+            <a class="navbar-brand d-flex align-items-center header-font" href="#">
                 <img src="assets/images/logomh.png" alt="Logo" width="40" height="40"
                     class="d-inline-block align-text-top me-2">
-                <span class="nav-color nav-bold">Mental Health Awareness</span>
+                <span class="nav-color nav-bold">Peace of Mind</span>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -34,16 +40,16 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link active nav-color" aria-current="page" href="#">Home</a>
+                        <a class="nav-link active nav-color para-font" aria-current="page" href="index.html">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link nav-color" href="#">About</a>
+                        <a class="nav-link nav-color para-font" href="#find-help">Resources</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link nav-color" href="#">Resources</a>
+                        <a class="nav-link nav-color para-font" href="#resources">Featured</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link nav-color" href="#">Contact</a>
+                        <a class="nav-link nav-color para-font" href="#uplifting">Quotes</a>
                     </li>
                 </ul>
             </div>
@@ -52,16 +58,46 @@
 
     <main>
         <!-- Hero Section -->
-        <section class="hero-section d-flex align-items-center justify-content-center text-center"
-            style="background: url('assets/images/gentlesunrise.png') center center/cover no-repeat; min-height: 60vh;">
+        <section class="hero-section d-flex align-items-center justify-content-center text-center text-lg-start py-5">
             <div class="container">
-                <h1 class="display-4 fw-bold text-white text-shadow">Welcome to Mental Health Awareness</h1>
-                <p class="lead text-white text-shadow mb-4">Empowering minds, supporting lives. Learn, connect, and find
-                    resources for better mental health.</p>
-                <a href="#resources" class="btn btn-primary btn-lg">Explore Resources</a>
+                <div class="row align-items-center">
+                    <div class="col-lg-6 mb-4 mb-lg-0">
+                        <h1 class="display-4 fw-bold word-shadow">Welcome to Peace of Mind</h1>
+                        <p class="lead mb-4 word-shadow">You are not alone on your journey. Peace of Mind is here to
+                            uplift, inspire, and connect you with caring support and helpful resources. Together, we can
+                            nurture hope, resilience, and well-being—one step at a time.</p>
+                    </div>
+                    <div class="col-lg-6 d-flex justify-content-center">
+                        <img src="assets/images/mentalhero.png" alt="Mental Hero" class="mentalhero-img">
+                    </div>
+                </div>
             </div>
         </section>
-        <section class="py-5 bg-light" id="resources">
+        <!-- Find Help -->
+        <section class="py-5" id="find-help">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 mb-4 mb-lg-0">
+                        <h2 class="display-5 fw-bold mb-4 text-center">Find Help</h2>
+                        <div class="d-grid gap-3">
+                            <a href="#" class="btn btn-primary btn-lg">Talk to a Professional</a>
+                            <a href="#" class="btn btn-success btn-lg">Crisis Support</a>
+                            <a href="#" class="btn btn-warning btn-lg">Community Groups</a>
+                            <a href="#" class="btn btn-info btn-lg">Self-Help Resources</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <p class="fs-5">
+                            If you or someone you know needs support, these links can connect you to professionals,
+                            crisis helplines, community groups, and self-help resources. Reaching out is a sign of
+                            strength—help is available and you are not alone.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Featured Topics -->
+        <section class="py-5" id="resources">
             <div class="container">
                 <h2 class="text-center mb-5 fw-bold">Featured Topics</h2>
                 <div class="row g-4">
@@ -108,29 +144,8 @@
                 </div>
             </div>
         </section>
-        <section class="py-5 bg-white">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-6 mb-4 mb-lg-0">
-                        <h2 class="display-5 fw-bold mb-4 text-center">Find Help</h2>
-                        <div class="d-grid gap-3">
-                            <a href="#" class="btn btn-primary btn-lg">Talk to a Professional</a>
-                            <a href="#" class="btn btn-success btn-lg">Crisis Support</a>
-                            <a href="#" class="btn btn-warning btn-lg">Community Groups</a>
-                            <a href="#" class="btn btn-info btn-lg">Self-Help Resources</a>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <p class="fs-5">
-                            If you or someone you know needs support, these links can connect you to professionals,
-                            crisis helplines, community groups, and self-help resources. Reaching out is a sign of
-                            strength—help is available and you are not alone.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section class="py-5 bg-light">
+        <!-- Uplifting Carousel -->
+        <section class="py-5" id="uplifting">
             <div class="container">
                 <h2 class="text-center mb-5 fw-bold">Uplifting Quotes</h2>
                 <div id="upliftingQuotesCarousel" class="carousel slide" data-bs-ride="carousel">
@@ -238,10 +253,7 @@
                 </div>
             </div>
         </section>
-
-
     </main>
-
     <!-- Footer -->
     <footer class="mt-auto py-3">
         <div class="container">
