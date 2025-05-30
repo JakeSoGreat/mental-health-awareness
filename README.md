@@ -131,10 +131,22 @@ I promptly addressed these errors and revalidated the code. The updated validati
 
 ## Roadmap
 
-- Add more mental health topics
-- Expand resource links
-- Add language/localization support
-- Add a self check form page
+### Planned Improvements
+
+- **Add more mental health topics:**  
+    Expand the site’s content to cover additional mental health conditions and topics, such as eating disorders, bipolar disorder, OCD, and coping strategies for various life situations. This will provide users with a broader range of information and support.
+
+- **Expand resource links:**  
+    Curate and include more links to reputable mental health organizations, hotlines, and online resources. This will help users find further support, self-help tools, and professional assistance relevant to their needs.
+
+- **Add language/localization support:**  
+    Implement multilingual options so users can access the site in different languages. This will make the information more accessible to a diverse, global audience.
+
+- **Add a self-check form page:**  
+    Create an interactive self-assessment form to help users reflect on their mental health and recognize potential concerns. The form will provide gentle feedback.
+
+- **Add a gentle relaxing music player:**  
+    Integrate a built-in music player featuring calming, royalty-free tracks. This feature aims to enhance the site’s soothing atmosphere and offer users a way to relax while browsing.
 
 ---
 
