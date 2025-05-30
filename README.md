@@ -56,6 +56,12 @@ Afterwards, I quickly created a **desktop (web) version** of the wireframe:
 
 ![Desktop wireframe preview](assets/images/webpageversion.png)
 
+As the development progressed, some design elements evolved beyond the initial wireframes. To ensure the wireframes accurately reflected the updated look and feel of the site, I revised them to match the emerging design direction. Below are the updated wireframes, which incorporate these adjustments:
+
+![Mobile wireframe 1.2 preview](assets/images/Mobile%20Version%201.2.png)
+
+![Desktop wireframe 1.2 preview](assets/images/webpage%20version%201.2.png)
+
 ---
 
 ## Getting Started

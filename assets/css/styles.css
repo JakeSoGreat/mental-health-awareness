@@ -68,6 +68,35 @@ p {
     height: 326px;
 }
 
+/* Find Help Section */
+.find-help-list-group {
+    background-color: var(--champagne);
+    color: var(--bistre);
+    border-radius: 0.5rem;
+    padding: 1rem;
+}
+
+.find-help-list-group .list-group-item {
+    background-color: transparent;
+    color: var(--bistre);
+    border: none;
+}
+
+.find-help-list-group .small.text-muted {
+    color: var(--bistre) !important;
+    opacity: 0.7;
+}
+
+.find-help-text {
+    background-color: var(--chinese-violet);
+    color: var(--bistre);
+    border-radius: 0.5rem;
+    padding: 1rem;
+}
+
+.find-help-text-light {
+    color: var(--champagne);
+}
 /* Footer */
 
 footer {
