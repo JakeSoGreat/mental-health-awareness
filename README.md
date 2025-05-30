@@ -99,3 +99,4 @@ No build steps required—just open the file!
 - NHS 111: https://111.nhs.uk/guided-entry/mental-health-help
 - Devon Mind: https://www.devonmind.com/find-help/groups
 - Mental Health Foundation: https://www.mentalhealth.org.uk/explore-mental-health/articles
+- Nation Library of Medicine: https://www.ncbi.nlm.nih.gov/books/NBK470361/, https://www.nimh.nih.gov/health/topics/depression, https://www.ncbi.nlm.nih.gov/books/NBK559129/, https://www.ncbi.nlm.nih.gov/books/NBK585058/

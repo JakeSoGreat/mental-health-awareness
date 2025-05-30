@@ -35,10 +35,13 @@ p {
 
 .header-font {
     font-family: "Sitony", sans-serif;
+    color: var(--bistre);
+    font-weight: bold;
 }
 
 .para-font {
     font-family: "Cabin", sans-serif;
+    color: var(--bistre);
 }
 
 .underline {
@@ -117,6 +120,30 @@ p {
     border-radius: 0.5rem;
     padding: 0.5rem 1rem;
     border: none;
+}
+
+/* Featured Topics Card Images */
+.featured-topic-img {
+    height: 180px;
+    object-fit: cover;
+    width: 100%;
+}
+
+/* Remove border from Featured Topics cards */
+.featured-topic-card {
+    background-color: var(--champagne);
+    border: none !important;
+    box-shadow: 0 0.125rem 0.25rem rgba(0,0,0,0.05);
+}
+
+.topic-title {
+    font-family: "Sitony", sans-serif;
+    color: var(--chinese-violet);
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+.topic-title:hover {
+    color: var(--bistre);
 }
 /* Footer */
 
