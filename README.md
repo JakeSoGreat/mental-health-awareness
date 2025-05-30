@@ -64,21 +64,33 @@ As the development progressed, some design elements evolved beyond the initial w
 
 ---
 
-## Getting Started
+## Deployment
 
-1. Clone the repository:
-2. Open `index.html` in your browser.
+To deploy this website using **GitHub Pages**, follow these steps:
 
-No build steps required—just open the file!
+1. **Open your repository on GitHub.**
+2. Click on the **Settings** tab at the top of the repository page.
+3. In the sidebar, select **Pages**.
+4. Under **"Branch"**, choose `main` as the source branch and set the folder to `/ (root)` or `/docs` (depending on where your `index.html` is located).
+5. Click **Save**.
+6. Wait a few moments for GitHub Pages to build and deploy your site.  
+    - A link to your live website will appear at the top of the Pages settings once deployment is complete.
+
 
 ---
 
 ## Features
 
-- Beginner-friendly mental health information
-- Calming, accessible design
-- Mobile-first responsive layout
-- Custom AI-generated images and color palette
+- Beginner-friendly mental health information and resources
+- Calming, accessible design with a soothing color palette
+- Mobile-first, fully responsive layout for all devices
+- Custom AI-generated images tailored to the site’s theme
+- User stories and planning powered by AI for clarity and focus
+- Easy navigation and organized content structure
+- Quick start: no build steps, just open `index.html`
+- Helpful links to mental health support organizations
+- Regularly updated wireframes reflecting design improvements
+- Open-source and easy to contribute to
 
 ---
 
