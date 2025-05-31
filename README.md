@@ -110,30 +110,38 @@ I promptly addressed these errors and revalidated the code. The updated validati
 
 ## Features
 
-- Beginner-friendly mental health information and resources
-- Calming, accessible design with a soothing color palette
-- Mobile-first, fully responsive layout for all devices
-- Custom AI-generated images tailored to the site’s theme
-- User stories and planning powered by AI for clarity and focus
-- Easy navigation and organized content structure
-- Quick start: no build steps, just open `index.html`
-- Helpful links to mental health support organizations
-- Regularly updated wireframes reflecting design improvements
-- Open-source and easy to contribute to
+- **Beginner-friendly information:** Clear, accessible explanations of mental health topics and common conditions.
+- **Calming, accessible design:** Soothing color palette and thoughtful layout to promote comfort and ease of use.
+- **Mobile-first, responsive layout:** Optimized for seamless viewing on all devices.
+- **Custom AI-generated images:** Unique visuals created to match the site’s calming theme.
+- **AI-powered planning:** User stories, acceptance criteria, and tasks generated and refined with AI for focused development.
+- **Intuitive navigation:** Well-organized content structure for easy browsing.
+- **Quick start:** No build steps required—simply open `index.html` to begin.
+- **Helpful resource links:** Direct access to reputable mental health organizations and support services.
+- **Evolving wireframes:** Regularly updated design mockups reflecting ongoing improvements.
+- **Open-source:** Welcoming contributions from the community.
 
 ---
 
 ## Technologies Used
 
-- HTML5 & CSS3
-- Bootstrap 5
-- AI tools: ChatGPT (user stories, palette), Copilot (images)
+- **HTML5 & CSS3** – for structure and styling
+- **Bootstrap 5** – for responsive layout and UI components
+- **AI tools:**
+    - ChatGPT – for user stories, acceptance criteria, and palette verification
+    - GitHub Copilot – for generating custom images and code suggestions
+- **Coolors** – for color palette creation and management
+
 
 ---
 
 ## Known Issues
 
 - On mobile and tablet devices, after selecting an item from the dropdown menu, the menu does not automatically close. This causes it to remain open and cover the section title, resulting in a UI issue.
+    
+    ### Solution
+
+    To address this issue, I consulted GitHub Copilot for suggestions and confirmed that the problem could be resolved with a small JavaScript snippet. By adding this script, the dropdown menu now automatically closes after a selection is made, resulting in a smoother and more user-friendly experience.
 
 ## Roadmap
 

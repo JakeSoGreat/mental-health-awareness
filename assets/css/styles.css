@@ -61,6 +61,8 @@ p {
 .nav-bold {
     font-weight: bold;
 }
+
+
 /* Hero Section */
 .hero-section {
     position: relative;
@@ -153,8 +155,6 @@ p {
     min-height: 300px;
 }
 
-
-
 /* Footer */
 
 footer {
@@ -163,4 +163,13 @@ footer {
 
 .footer-color {
     color: var(--bistre);
+}
+
+
+/* media query */
+
+@media (max-width: 768px) {
+    section[id] {
+    scroll-margin-top: 180px; /* Adjust to your navbar's height */
+}
 }
