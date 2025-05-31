@@ -172,6 +172,14 @@ I promptly addressed these errors and revalidated the code. The updated validati
 
 ![Passing validation screenshot](assets/images/passing%20validation.png)
 
+## CSS Validation
+
+After ensuring the HTML was error-free, I also validated the site’s CSS using the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/). The results confirmed that the stylesheet passed without any errors or warnings:
+
+![Passing CSS validation screenshot](assets/images/Screenshot%202025-05-31%20130944.png)
+
+This validation helps guarantee that the site’s styles are standards-compliant and should render consistently across modern browsers.
+
 ---
 
 ## Features
