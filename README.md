@@ -91,9 +91,30 @@ To deploy this website using **GitHub Pages**, follow these steps:
 ---
 
 ---
-## Applications Purpose
+## Application’s Purpose
+
+The purpose of this application is to raise awareness about mental health by providing clear, accessible, and supportive information for users of all backgrounds. It is designed to:
+
+- **Educate:** Offer beginner-friendly explanations of common mental health conditions, symptoms, and coping strategies.
+- **Support:** Create a welcoming environment where users can learn about mental health without stigma or judgment.
+- **Empower:** Help users recognize signs of mental health challenges and encourage proactive self-care.
+- **Guide:** Direct users to reputable resources, organizations, and professional support services.
+- **Promote Well-being:** Present information in a calming, organized layout that reduces stress and encourages reflection.
+
+By combining thoughtful design, reliable information, and helpful resources, the application aims to make mental health knowledge approachable and actionable for everyone.
 ---
 ## User Value
+
+This website delivers significant value to its users by focusing on accessibility, clarity, and support in the context of mental health. Key user benefits include:
+
+- **Accessible Information:** Users of all backgrounds and experience levels can easily find and understand essential mental health topics, symptoms, and coping strategies.
+- **Supportive Environment:** The site’s calming design and non-judgmental tone foster a sense of safety, encouraging users to explore mental health topics without stigma.
+- **Empowerment:** By providing clear explanations and practical resources, users are empowered to recognize signs of mental health challenges and take proactive steps toward self-care.
+- **Guidance to Resources:** Direct links to reputable organizations and professional services help users quickly access further support when needed.
+- **Inclusive Design:** Mobile-first, responsive layouts and accessible color palettes ensure a comfortable experience for all users, regardless of device or ability.
+- **Encouragement for Reflection:** Interactive features and gentle feedback promote self-awareness and reflection, supporting users on their mental health journey.
+
+Overall, the website aims to make mental health knowledge approachable, actionable, and supportive, helping users feel informed, understood, and encouraged.
 ---
 
 ## Code Validation
