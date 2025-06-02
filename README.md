@@ -101,7 +101,7 @@ Each image was designed to complement the chosen color palette, emphasizing soft
 
 Additionally, each carousel background was custom-generated to match the site’s theme, such as:
 
--   ![Carousel background example](assets/images/carousel1.png)
+-   ![Carousel background example](assets/images/carousel1.jpg)
 
 ---
 
