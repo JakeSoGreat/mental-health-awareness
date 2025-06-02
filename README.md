@@ -92,10 +92,10 @@ Each image was designed to complement the chosen color palette, emphasizing soft
 
 ### Custom Images Created
 
--   ![Anxiety illustration](assets/images/anxiety.png)
--   ![PTSD illustration](assets/images/ptsd.png)
--   ![Depression illustration](assets/images/depression.png)
--   ![Imposter syndrome illustration](assets/images/impostersyndrom.png)
+-   ![Anxiety illustration](assets/images/anxiety.jpg)
+-   ![PTSD illustration](assets/images/ptsd.jpg)
+-   ![Depression illustration](assets/images/depression.jpg)
+-   ![Imposter syndrome illustration](assets/images/impostersyndrom.jpg)
 -   ![Site logo](assets/images/logomh.png)
 -   ![Hero section image](assets/images/mentalhero.png)
 
