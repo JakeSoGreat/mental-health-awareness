@@ -95,7 +95,7 @@ Each image was designed to complement the chosen color palette, emphasizing soft
 -   ![Anxiety illustration](assets/images/anxiety.jpg)
 -   ![PTSD illustration](assets/images/ptsd.jpg)
 -   ![Depression illustration](assets/images/depression.jpg)
--   ![Imposter syndrome illustration](assets/images/impostersyndrom.jpg)
+-   ![Imposter syndrome illustration](assets/images/impostersyndrome.jpg)
 -   ![Site logo](assets/images/logomh.png)
 -   ![Hero section image](assets/images/mentalhero.png)
 
