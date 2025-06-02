@@ -1,4 +1,10 @@
-# Mental Health Awareness
+# Peace of Mind
+
+![Responsive site preview](assets/images/amiresponsive.png)
+
+Discover a calming, beginner-friendly resource dedicated to mental health awareness. This website offers clear explanations, supportive guidance, and practical tools to help you understand common mental health topics, manage stress, and find helpful resources—all in a soothing, accessible environment.
+
+---
 
 ## Goal
 
