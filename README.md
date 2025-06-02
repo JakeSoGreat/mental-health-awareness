@@ -180,6 +180,13 @@ After ensuring the HTML was error-free, I also validated the site’s CSS using 
 
 This validation helps guarantee that the site’s styles are standards-compliant and should render consistently across modern browsers.
 
+## Lighthouse Performance Audit
+
+After compressing all images in the project to optimize loading times, I used Google Chrome DevTools to run a **Lighthouse audit** on the deployed site. Lighthouse evaluates key aspects such as performance, accessibility, best practices, and SEO. Below is the resulting score:
+
+![Lighthouse score screenshot](assets/images/lighthouse%20score.png)
+
+This high score demonstrates that the site is well-optimized, accessible, and follows web development best practices.
 ---
 
 ## Features
